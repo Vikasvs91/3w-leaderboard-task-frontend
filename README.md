@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# 🚀 3W Full Stack Task - Round 1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔗 Live URLs
+- **Frontend (React)**: [https://3w-frontend.vercel.app](https://687b4967013ba50008a656af--leaderboard-task-frontend.netlify.app/)
+- **Backend (Node.js + Express)**: [https://3w-backend-production.up.railway.app](https://threew-backend-task.onrender.com/)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🛠️ Tech Stack
+- Frontend: React.js, Axios, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MongoDB (MongoDB Atlas)
+- Hosting: Railway (Backend), Vercel/Netlify (Frontend)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📁 Project Structure
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+/client # React frontend
+/server # Express backend
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚙️ Environment Variables
 
-### `npm run build`
+### Backend:
+MONGO_URI="mongodb+srv://Vikas:994971Pv%40@cluster0.0hcldlc.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0"
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+shell
+Copy
+Edit
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Frontend:
+REACT_APP_API_URL=[https://your-backend-url/api](https://threew-backend-task.onrender.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+yaml
+Copy
+Edit
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📸 Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Include screenshots of:
+- Live frontend app
+- API in Postman or browser
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🧪 Testing
+Use Postman or curl:
+```bash
+curl https://threew-backend-task.onrender.com/
+📝 Author
+Vikas Basavi
+📧 vikasbasavi@gmail.com
+🌐 LinkedIn
 
-## Learn More
+yaml
+Copy
+Edit
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Once you’ve deployed both, **fill out the submission form provided in the original task document.**
 
-### Code Splitting
+Let me know:
+- Your backend live URL
+- Your frontend live URL
+- GitHub repo links (frontend + backend)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+And I can review & help finalize before submission ✅
